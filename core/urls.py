@@ -25,7 +25,7 @@ schema = get_schema_view(
     openapi.Info(
         title="FakeUsers API",
         default_version='v1.0.0',
-        description="This is a fake users api with <b>4535 </b> fake users",
+        description="This is a fake users api with <b>4535</b> fake users",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="contact@snippets.local"),
         license=openapi.License(name="BSD License"),
